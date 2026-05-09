@@ -8,7 +8,6 @@ This project is a Convolutional Neural Network (CNN) model built using TensorFlo
 - Data augmentation using ImageDataGenerator
 - TensorFlow 2.x and Keras
 - Achieved more than 63% validation accuracy
-
 ## Dataset Structure
 
 cats_and_dogs/
